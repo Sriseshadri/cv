@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> ABC Company</title>
+<style>
+h2{
+color:blue;
+font-family:verdana;
+fant-size:50%;
+}
+li{
+color:red;
+font-family:courier;
+}
+</style>
+</head>
+<body>
+<h2> Employee Details </h2>
+<ul type="disc">
+<li> Family Details </li>
+<li> Personal Details</li>
+</ul>
+<table align="center" width="30" border="1" border color="blue" cellspacing="2" cellpadding="2">
+<tr>
+<td>Name</td>
+<td>Mobile number</td>
+<td>Address</td>
+</tr>
+</table>
+</body>
+</html>
